@@ -1,0 +1,94 @@
+{
+    "data": {
+        "address": "Cordoba, Argentina.",
+        "avatar": "https://scontent.fcor5-1.fna.fbcdn.net/v/t1.0-9/29178439_1853165741360146_479653447877001216_n.jpg?_nc_cat=104&_nc_sid=09cbfe&_nc_ohc=vRuA0DPuikAAX_sAYFA&_nc_ht=scontent.fcor5-1.fna&oh=22ad0e1c291d9d33a4ceff541c9125b9&oe=5F411B6E",
+        "bio": "Estudiante avanzado de Analista de sistemas y desarrollo de software. Me encantaria formar parte de una empresa en la cual poder aplicar mis conocimientos y continuar creciendo como profesional . Me considero una persona responsable, analitica y predispuesta a afrontar nuevos desafios.",
+        "certificate": [
+            {
+                "date": "2016",
+                "description": "Formacion integral basica de testers ",
+                "institution": "Bstricker",
+                "name": "Formacion Inicial de testing de software"
+            }
+        ],
+        "education": [
+            {
+                "degree": "Analista de Sistemas y Desarrollo de Software",
+                "description": "Ya probo reiniciando el dispositivo",
+                "endDate": "En curso",
+                "institution": "Instituto de educación Superior Siglo 21",
+                "startDate": "2018"
+            },
+            {
+                "degree": "Bachillerato en economía y administración",
+                "description": "Que pija es un asiento contable",
+                "endDate": "2016",
+                "institution": "Instituto la Inmaculada",
+                "startDate": "2010"
+            }
+        ],
+        "experience": [
+            {
+                "company": "Oficina Abierta Coworking",
+                "endDate": "02/2019",
+                "jobDescription": "Recepción, mantenimiento y limpieza, manejo de redes y ventas.",
+                "jobTitle": "Recepcionista",
+                "startDate": "05/2018"
+            }
+        ],
+        "name": "Francisco Mansilla",
+        "profession": "Estudiante",
+        "skills": [
+            {
+                "name": "HTML5",
+                "percentage": "50%"
+            },
+            {
+                "name": "CSS",
+                "percentage": "25%"
+            },
+            {
+                "name": "JavaScript",
+                "percentage": "55%"
+            },
+            {
+                "name": "React",
+                "percentage": "20%"
+            },
+            {
+                "name": "Visual basic",
+                "percentage": "80%"
+            },
+            {
+                "name": "SQL",
+                "percentage": "60%"
+            },
+            {
+                "name": "PHP",
+                "percentage": "40%"
+            },
+            {
+                "name": "Python",
+                "percentage": "50%"
+            }
+        ],
+        "social": [
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/fran.mansilla.77"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/Fran_NMansilla"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/franmansilla"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/francisco-mansilla-275974159/"
+            }
+        ]
+    }
+}
