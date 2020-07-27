@@ -1,5 +1,5 @@
 import {useState, useEffect} from 'react';
-const api='http://localhost:3000/data';
+const api='https://github.com/franmansilla/CV/blob/develop/src/hooks/db.json';
 const useGetData =()=> {
     const [mydata, setdata]= useState([]);
 
