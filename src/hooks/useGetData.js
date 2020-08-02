@@ -1,5 +1,5 @@
 import {useState, useEffect} from 'react';
-const api='https://us-central1-arepa-dev-api.cloudfunctions.net/api';
+const api='https://franmansilla.github.io/api-json/db.json';
 const useGetData =()=> {
     const [mydata, setdata]= useState([]);
 
