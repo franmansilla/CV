@@ -1,4 +1,4 @@
-import React from 'React';
+import React from 'react';
 import styled, { keyframes } from 'styled-components';
 
 const SkillsContainer=styled.div`

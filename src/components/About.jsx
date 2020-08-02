@@ -1,4 +1,4 @@
-import React from 'React';
+import React from 'react';
 import Social from './Social';
 import styled from 'styled-components';
 

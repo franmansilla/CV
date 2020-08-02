@@ -1,4 +1,4 @@
-import React from 'React';
+import React from 'react';
 import H2Styled from '../styled/H2Styled';
 import H3Styled from '../styled/H3Styled';
 import PStyled from '../styled/PStyled';
