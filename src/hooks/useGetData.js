@@ -1,5 +1,5 @@
 import {useState, useEffect} from 'react';
-const api='https://github.com/franmansilla/CV/blob/develop/src/hooks/db.json';
+const api='https://us-central1-arepa-dev-api.cloudfunctions.net/api';
 const useGetData =()=> {
     const [mydata, setdata]= useState([]);
 
@@ -7,7 +7,7 @@ const useGetData =()=> {
     useEffect(()=>{
         fetch(api)
             .then(response=>response.json())
-            .then(data=>setdata(data))
+            .then(data=>setdata(data.data))
     },[]);
 
     return mydata;
