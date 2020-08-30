@@ -23,6 +23,7 @@ const GlobalStyle = createGlobalStyle`
 const App = () => {
     const data=useGetData();
     console.log(data);
+    data.skills.sort();
     return data.length === 0 ? <h1>Cargando...</h1> :(
         <Main>
             <GlobalStyle />
